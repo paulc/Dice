@@ -3,6 +3,7 @@ Arduino Code to drive Minty Geek Dice kit
 
 (replaces PIC provided - mine didnt work)
 
+```
 Pinout:
 
 U1      Nano
@@ -18,3 +19,4 @@ U1      Nano
 12  	D8      (l.rDiag)
 13  	D9      (l.middle)
 14      Gnd
+```
