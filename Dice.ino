@@ -1,6 +1,6 @@
 const struct dicePins { int centre,leftDiag,rightDiag,middle; } \
-  l = { 9,8,7,6 }, 
-  r = { 13,12,11,10 };
+  l = { 8,7,6,5 }, 
+  r = { 12,11,10,9 };
 
 const int buttonPin = 2;    
 int buttonState;
